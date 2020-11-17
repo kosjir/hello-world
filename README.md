@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi Humans! Jsem zde a mám rád programovaní.
